@@ -2733,8 +2733,7 @@ h6 {
 }
 
 .subscription_box {
-  background: url(../img/subscribe-bg.png) no-repeat center;
-  padding: 150px 0px 100px; }
+  padding: 50px 0px 10px; }
   @media (max-width: 767px) {
     .subscription_box {
       padding: 50px 20px; } }
@@ -2749,7 +2748,7 @@ h6 {
     font-size: 18px;
    }
   .subscription_box .subscription input, .subscription_box .subscription textarea {
-    min-width: 380px;
+    min-width: 280px;
     max-width: 380px;
     line-height: 48px;
     padding: 0 25px;
